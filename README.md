@@ -1,11 +1,8 @@
 ### Greetings, I'm Absar. 👋
 
-- 🔭 I’m currently working on Youtube
-- 🌱 I’m currently learning Python & Flutter
-- 👯 I’m looking to collaborate on some amazing python & flutter projects.
-- 🤔 I’m looking for help with Python and Youtube.
-- 💬 Ask me about web development or any tech related stuff.
-- 📫 How to reach me: Instagram - [@heyabsaaarryy](https://www.instagram.com/heyabsaaarryy/), Email - absar4060@gmail.com
-- 😄 Pronouns: Absar
-- ⚡ Fun fact: I am a 13 year old high school student from India.
--->
+- 👨🏻‍🎓 I’m a 14 years old student.
+- 💻 I’m currently mastering web development.
+- 👯 I’m looking to collaborate on some awesome web development projects.
+- 🏆 I've already mastered Python.
+- 👩🏻‍💻 I am currently building my portfolio.
+- 📫 How to reach me: Instagram - [@absar_ahmad79](https://www.instagram.com/absar_ahmad79/), Email - absar4060@gmail.com.

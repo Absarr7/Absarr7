@@ -8,7 +8,7 @@
 
 - 📝 I occasionally write articles on [absar-ahmad.blogspot.com](absar-ahmad.blogspot.com)
 
-- 💬 Ask me about **JavaScript, Python, Flutter, ReactJS, CSS, HTML**
+- ☑ I have experience in **JavaScript, Python, Flutter, ReactJS, CSS, HTML**
 
 - 📫 How to reach me **absarworks@gmail.com**
 
